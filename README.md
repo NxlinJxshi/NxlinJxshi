@@ -2,7 +2,7 @@
 
 # **Nalin Joshi**
 
-Math-CS @ UCSD · Probabilistic ML · Stochastic Systems
+Math-CS @ UCSD · Probabilistic ML · Stochastic Systems · Software Engineering
 
 ![Typing](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Probabilistic+Modeling;Bayesian+Inference;Stochastic+Processes;Machine+Learning+Research;Fine-Tuning+%26+PEFT)
 
