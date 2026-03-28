@@ -8,6 +8,8 @@ Math-CS @ UCSD · Probabilistic ML · Stochastic Systems · Software Engineering
 
 </div>
 
+---
+
 ## 🛠 Tools & Languages
 
 <div align="center">
@@ -23,6 +25,8 @@ Math-CS @ UCSD · Probabilistic ML · Stochastic Systems · Software Engineering
 
 </div>
 
+---
+
 ## 🔬 Research Interests
 
 <div align="center">
@@ -35,21 +39,23 @@ Math-CS @ UCSD · Probabilistic ML · Stochastic Systems · Software Engineering
 
 </div>
 
+---
+
 ## 💻 Featured Projects
 
 ### Personal Projects
 
 <table>
 <tr>
-<td>
-
-[![RapidFire SFT](https://github-readme-stats.vercel.app/api/pin/?username=NxlinJxshi&repo=RapidFire_SFT&theme=github_dark&show_owner=false)](https://github.com/NxlinJxshi/RapidFire_SFT)
-
+<td align="center" width="50%">
+<a href="https://github.com/NxlinJxshi/RapidFire_SFT">
+<img src="assets/card-rapidfire.svg" alt="RapidFire SFT" width="100%"/>
+</a>
 </td>
-<td>
-
-[![Agentik Project](https://github-readme-stats.vercel.app/api/pin/?username=NxlinJxshi&repo=Agentik-Project&theme=github_dark&show_owner=false)](https://github.com/NxlinJxshi/Agentik-Project)
-
+<td align="center" width="50%">
+<a href="https://github.com/NxlinJxshi/Agentik-Project">
+<img src="assets/card-agentik.svg" alt="Agentik Project" width="100%"/>
+</a>
 </td>
 </tr>
 </table>
@@ -58,7 +64,9 @@ Math-CS @ UCSD · Probabilistic ML · Stochastic Systems · Software Engineering
 
 <div align="center">
 
-[![c0mpiled project](https://github-readme-stats.vercel.app/api/pin/?username=NxlinJxshi&repo=c0mpiled_project&theme=github_dark&show_owner=false)](https://github.com/NxlinJxshi/c0mpiled_project)
+<a href="https://github.com/NxlinJxshi/c0mpiled_project">
+<img src="assets/card-compiled.svg" alt="c0mpiled" width="80%"/>
+</a>
 
 </div>
 
@@ -66,13 +74,19 @@ Math-CS @ UCSD · Probabilistic ML · Stochastic Systems · Software Engineering
 
 <div align="center">
 
-[![COGS108 Project](https://github-readme-stats.vercel.app/api/pin/?username=NxlinJxshi&repo=COGS108_Project&theme=github_dark&show_owner=false)](https://github.com/NxlinJxshi/COGS108_Project)
+<a href="https://github.com/NxlinJxshi/COGS108_Project">
+<img src="assets/card-cogs108.svg" alt="COGS108 Project" width="80%"/>
+</a>
 
 </div>
+
+---
 
 ## 📚 Relevant Coursework
 
 <!-- Coursework content to be added -->
+
+---
 
 ## 📬 Contact
 
