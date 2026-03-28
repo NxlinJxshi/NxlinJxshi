@@ -12,8 +12,8 @@
 <rect x="290" y="74" width="124" height="22" rx="4" fill="#3a2a0a"/>
 <text font-family="monospace" font-size="11" font-weight="500" fill="#d29922" x="352" y="89" text-anchor="middle">Readiness Metrics</text>
 <line x1="44" y1="108" x2="636" y2="108" stroke="#30363d" stroke-width="0.5"/>
-<text font-family="monospace" font-size="12" fill="#8b949e" x="44" y="130">Tracks attempts, normalizes problem data, and generates</text>
-<text font-family="monospace" font-size="12" fill="#8b949e" x="44" y="150">topic-wise skill reports with readiness scoring</text>
+<text font-family="monospace" font-size="12" fill="#8b949e" x="44" y="130">Tracks attempts, normalizes problem data,</text>
+<text font-family="monospace" font-size="12" fill="#8b949e" x="44" y="150">generates topic-wise skill + readiness reports</text>
 <rect x="490" y="110" width="148" height="56" rx="8" fill="#3a2a0a" stroke="#30363d" stroke-width="0.5"/>
 <text font-family="monospace" font-size="11" fill="#8b949e" x="564" y="130" text-anchor="middle">Output</text>
 <text font-family="monospace" font-size="14" font-weight="600" fill="#d29922" x="564" y="150" text-anchor="middle">Skill Report</text>
