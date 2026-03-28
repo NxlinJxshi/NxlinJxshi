@@ -45,27 +45,24 @@ Math-CS @ UCSD · Probabilistic ML · Stochastic Systems · Software Engineering
 
 ### Personal Projects
 
-<table>
-<tr>
-<td align="center" width="50%">
+<div align="center">
+
 <a href="https://github.com/NxlinJxshi/RapidFire_SFT">
 <img src="assets/card-rapidfire.svg" alt="RapidFire SFT" width="100%"/>
 </a>
-</td>
-<td align="center" width="50%">
+
 <a href="https://github.com/NxlinJxshi/Agentik-Project">
 <img src="assets/card-agentik.svg" alt="Agentik Project" width="100%"/>
 </a>
-</td>
-</tr>
-</table>
+
+</div>
 
 ### 🏆 Hackathon
 
 <div align="center">
 
 <a href="https://github.com/NxlinJxshi/c0mpiled_project">
-<img src="assets/card-compiled.svg" alt="c0mpiled" width="80%"/>
+<img src="assets/card-compiled.svg" alt="c0mpiled" width="60%"/>
 </a>
 
 </div>
@@ -75,11 +72,10 @@ Math-CS @ UCSD · Probabilistic ML · Stochastic Systems · Software Engineering
 <div align="center">
 
 <a href="https://github.com/NxlinJxshi/COGS108_Project">
-<img src="assets/card-cogs108.svg" alt="COGS108 Project" width="80%"/>
+<img src="assets/card-cogs108.svg" alt="COGS108 Project" width="60%"/>
 </a>
 
 </div>
-
 ---
 
 ## 📚 Relevant Coursework
