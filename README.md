@@ -80,9 +80,19 @@ Math-CS @ UCSD · Probabilistic ML · Stochastic Systems · Software Engineering
 
 ## 📚 Relevant Coursework
 
-<!-- Coursework content to be added -->
+<div align="center">
 
----
+| Course | Key Topics |
+|--------|-----------|
+| **Math 189** · Exploratory Data Analysis & Inference | Statistical learning, regression, classification, resampling, regularization, SVMs, unsupervised learning, hypothesis testing |
+| **Math 180B/C** · Stochastic Processes I & II | Markov chains, Chapman-Kolmogorov equations, hitting times, stationary distributions, Poisson processes, renewal theory, martingales, Brownian motion, MCMC |
+| **Math 154** · Graph Theory | Connectivity, spanning trees, Dijkstra's algorithm, matchings, graph coloring, planar graphs, max-flow min-cut |
+| **Math 100A/B** · Abstract Algebra I & II | Groups, rings, fields, polynomial rings, linear transformations, inner product spaces, diagonalization |
+| **CSE 101** · Algorithm Design & Analysis | Divide and conquer, dynamic programming, greedy algorithms, graph algorithms, NP-completeness |
+| **CSE 100** · Advanced Data Structures | Balanced trees, priority queues, hash tables, memory management, performance analysis |
+| **Math 20A–E** · Calculus | Multivariable calculus, optimization, vector calculus, Green's, Stokes', and Gauss' theorems |
+
+</div>
 
 ## 📬 Contact
 
